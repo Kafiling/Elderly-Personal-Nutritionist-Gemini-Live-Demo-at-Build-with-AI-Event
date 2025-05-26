@@ -1,0 +1,8 @@
+{
+  "name": "{en/th}Elderly AI Nutritionist",
+  "description": "An AI-powered personal nutritionist app for elderly individuals. It analyzes refrigerator contents, considers user preferences and health needs, and suggests personalized meal plans with recipes and nutritional information.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
