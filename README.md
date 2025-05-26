@@ -8,6 +8,13 @@ This is part of the event GDG on Campus Chula, KMITL, KMUTT x AMSA | Build with 
 
 Event Page: [Bevy Link](https://gdg.community.dev/events/details/google-gdg-on-campus-chulalongkorn-university-bangkok-thailand-presents-gdg-on-campus-chula-kmitl-kmutt-x-amsa-build-with-ai-transforming-healthcare-with-technology/cohost-gdg-on-campus-chulalongkorn-university-bangkok-thailand)
 
+# About Project
+![](readmePicture/0001.jpg)
+![](readmePicture/0004.jpg)
+![](readmePicture/0009.jpg)
+![](readmePicture/0014.jpg)
+![](readmePicture/0022.jpg)
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
